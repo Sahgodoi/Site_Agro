@@ -1,0 +1,23 @@
+h1,h2,h3,h4,h5 {
+    font-family: "Poppins", sans-serif;
+}
+body {
+	max-height: 100%;
+    font-size: 16px;
+}
+.mySlides {
+    display: none;
+}
+.photo{
+    padding-left: 100px;
+}
+
+.blog{
+    width: 28px;
+}
+#form {
+	margin-top:64px
+}
+a { 
+	text-decoration: none;
+}
